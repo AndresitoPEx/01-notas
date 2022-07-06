@@ -1,0 +1,15 @@
+{
+    "name": "andres/notas",
+    "autoload": {
+        "psr-4": {
+            "Andres\\Notas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jorge Romo",
+            "email": "andresrt952@gmail.com"
+        }
+    ],
+    "require": {}
+}
